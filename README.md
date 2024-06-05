@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PolapallyLikith/Projects](https://github.com/PolapallyLikith/Projects)
 
-- 📫 To contact reach out to me **polapallylikith@gmail.com**
+- 📫 To contact reach out to me at **polapallylikith@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
