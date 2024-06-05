@@ -1,4 +1,4 @@
-![logo](https://github.com/PolapallyLikith/PolapallyLikith/blob/main/Profile%20Software%20Engineer%20LinkedIn%20Banner%203%20-%20Made%20with%20PosterMyWall%20(1).jpg)
+![logo](https://github.com/PolapallyLikith/PolapallyLikith/blob/main/Profile%20Software%20Engineer%20LinkedIn%20Banner%203%20-%20Made%20with%20PosterMyWall%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Polapally Likith</h1>
 <h3 align="center">A passionate Software Development Engineer from Telangana, India</h3>
 
